@@ -1,0 +1,61 @@
+#video{
+    width: 800;
+    height: 400;
+    border-color: blueviolet;
+    border-width: thick;
+    text-align: center;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+body{
+background-color: aquamarine;
+    text-align: center;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
+#start div
+{
+    text-align: center;
+}
+#vid
+{ height:500;
+    width: 1000;
+}
+#marqueeStyle
+{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+#welcome{
+    text-align: center;
+}
+#centers{
+    text-align: center;
+}
+
+#acheivements{
+    font-size: 20px;
+}
+
+
+.article {
+    
+    color:darkgrey;
+    font-weight: bold;
+}
+.travel_mainDiv
+{
+    text-align: center;
+}
+
+#annual
+{
+    width:1200px;
+}
